@@ -1,0 +1,8 @@
+<!-- res/values/ids.xml -->
+<resources>
+    <item name="navHome" type="id" />
+    <item name="navCart" type="id" />
+    <item name="navProfile" type="id" />
+    <item name="bottomNavView" type="id" />
+    <item name="frameLayout" type="id" />
+</resources>
